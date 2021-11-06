@@ -1,2 +1,9 @@
 # ig-template-ca
-HL7 IG template for FHIR-related implementation guides published in the Canadian realm (not tied to HL7)
+Template for [FHIR](https://www.hl7.org/fhir/)-related implementation guides (IGs) published under the auspices of [HL7 Canada](https://infocentral.infoway-inforoute.ca/en/collaboration/communities/hl7), the Canadian national affiliate of [HL7 International](http://www.hl7.org).
+
+To use this template in your implementation guide, edit ```ig.ini``` to include:
+```
+template = fhir.ca.template
+```
+
+For more on FHIR implementation guides and IG templates, see [Guidance for FHIR IG Creation](http://build.fhir.org/ig/FHIR/ig-guidance/index.html).

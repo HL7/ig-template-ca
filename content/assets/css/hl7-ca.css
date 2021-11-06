@@ -2,7 +2,7 @@
 :root {
   --navbar-bg-color: #e02e3b; /* 2. Header container color */
   --footer-bg-color: #707070; /* 3. Footer background color*/
-  --footer-container-color: #e02e3b; /* 4. Footer container color */
+  --footer-container-bg-color: #e02e3b; /* 4. Footer container color */
   --btn-hover-color: #d6d6d6;  /* 6. Menu button hover color */
 }
 
@@ -14,6 +14,8 @@
   --stu-note-background-color: #fff2ff; /* 19. (STU) Note box background color */
   --stu-note-border-left-color: #ffa0ff; /* 20. (STU) Note box border color */
 }
+
+
 
 #hl7-nav {
   line-height: 50px;

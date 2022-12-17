@@ -12,12 +12,20 @@
       "current": true
     },
     {
+      "version": "0.2.0",
+      "desc": "Upgrade for dependency on fhir.base.template",
+      "path": "http://fhir.org/templates/fhir.ca.template/0.2.0",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2022-09-26"
+    },
+    {
       "version": "0.1.0",
       "desc": "First release of the template package",
       "path": "http://fhir.org/templates/fhir.ca.template/0.1.0",
       "status": "release",
       "sequence": "Publications",
-      "current": true,
       "date": "2021-11-25"
     }
   ]

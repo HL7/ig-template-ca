@@ -1,13 +1,13 @@
 ﻿{
-  "name": "fhir.ca.template",
-  "type": "fhir.template",
-  "license": "CC0-1.0",
-  "description": "HL7 Canada Template - for use with HL7 Canada-published FHIR IGs",
-  "author": "http://hl7.org/fhir",
-  "canonical": "http://fhir.org/templates/fhir.ca.template",
-  "base": "fhir.base.template",
-  "dependencies": {
-    "fhir.base.template": "current"
+  "name" : "fhir.ca.template",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "HL7 Canada Template - for use with HL7 Canada-published FHIR IGs",
+  "author" : "http://hl7.org/fhir",
+  "canonical" : "http://fhir.org/templates/fhir.ca.template",
+  "base" : "fhir.base.template",
+  "dependencies" : {
+    "fhir.base.template" : "current"
   },
-  "version": "0.1.0"
+  "version" : "0.2.0"
 }

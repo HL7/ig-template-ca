@@ -3,7 +3,7 @@ Template for [FHIR](https://www.hl7.org/fhir/)-related implementation guides (IG
 
 To use this template in your implementation guide, edit ```ig.ini``` to include:
 ```
-template = fhir.ca.template
+template = hl7.ca.fhir.template
 ```
 
 For more on FHIR implementation guides and IG templates, see [Guidance for FHIR IG Creation](http://build.fhir.org/ig/FHIR/ig-guidance/index.html).

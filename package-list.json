@@ -1,7 +1,7 @@
 ﻿{
-  "package-id" : "fhir.ca.template",
+  "package-id" : "hl7.ca.fhir.template",
   "title" : "Base template for Canadian FHIR IGs",
-  "canonical" : "http://fhir.org/templates/fhir.ca.template",
+  "canonical" : "http://fhir.org/templates/hl7.ca.fhir.template",
   "introduction" : "This is the basic template",
   "list" : [
     {
@@ -12,19 +12,28 @@
       "current" : true
     },
     {
+      "version" : "0.3.0",
+      "path" : "http://fhir.org/templates/hl7.ca.fhir.template/0.3.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "fhirversion" : "4.0.1",
+      "desc" : "Upgrade for dependency on fhir.base.template (again)",
+      "date" : "2023-10-19",
+      "current" : true
+    },
+    {
       "version" : "0.2.0",
-      "path" : "http://fhir.org/templates/fhir.ca.template/0.2.0",
+      "path" : "http://fhir.org/templates/hl7.ca.fhir.template/0.2.0",
       "status" : "release",
       "sequence" : "Publications",
       "fhirversion" : "4.0.1",
       "desc" : "Upgrade for dependency on fhir.base.template",
-      "date" : "2023-09-21",
-      "current" : true
+      "date" : "2023-09-21"
     },
     {
       "version" : "0.1.0",
       "desc" : "First release of the template package",
-      "path" : "http://fhir.org/templates/fhir.ca.template/0.1.0",
+      "path" : "http://fhir.org/templates/hl7.ca.fhir.template/0.1.0",
       "status" : "release",
       "sequence" : "Publications",
       "date" : "2021-11-25"

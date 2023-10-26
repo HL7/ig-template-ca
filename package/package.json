@@ -1,10 +1,10 @@
 ﻿{
-  "name" : "fhir.ca.template",
+  "name" : "hl7.ca.fhir.template",
   "type" : "fhir.template",
   "license" : "CC0-1.0",
   "description" : "HL7 Canada Template - for use with HL7 Canada-published FHIR IGs",
   "author" : "http://hl7.org/fhir",
-  "canonical" : "http://fhir.org/templates/fhir.ca.template",
+  "canonical" : "http://fhir.org/templates/hl7.ca.fhir.template",
   "base" : "fhir.base.template",
   "dependencies" : {
     "fhir.base.template" : "current"
